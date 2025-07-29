@@ -1,1 +1,2 @@
-"// Calculadora b sica using System;class Program {    static void Main() {        Console.WriteLine("Bienvenido a la Calculadora B sica");    }} Console.Write("Ingrese primer n£mero: ");int a = int.Parse(Console.ReadLine());Console.Write("Ingrese segundo n£mero: ");int b = int.Parse(Console.ReadLine());Console.WriteLine($"Resultado: {a + b}");" 
+"// Calculadora bÂ sica using System;class Program {    static void Main() {        Console.WriteLine("Bienvenido a la Calculadora BÂ sica");    }} Console.Write("Ingrese primer nÂ£mero: ");int a = int.Parse(Console.ReadLine());Console.Write("Ingrese segundo nÂ£mero: ");int b = int.Parse(Console.ReadLine());Console.WriteLine($"Resultado: {a + b}");" 
+//Comentari agregado desde GitHub
